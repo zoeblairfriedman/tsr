@@ -1,5 +1,7 @@
 import { createRoot } from 'react-dom/client'
-import UserSearch from './state/UserSearch'
+// import UserSearch from './state/UserSearch'
+// import EventComponent from './events/EventComponent'
+import UserSearch from './refs/UserSearch'
 
 const App = () => {
   return (
